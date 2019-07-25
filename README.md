@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Testing this line of markdown:
+
+```javascript
+alert('Hi!');
+```
+
+```ruby
+def say
+  puts "Hello!"
+end
+```
