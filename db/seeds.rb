@@ -30,7 +30,7 @@ puts "5 skills created"
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "Ruby on Rails",
     body: "Nam efficitur pulvinar enim, eu semper elit rhoncus eu. Etiam sed nunc tellus. Aenean laoreet, elit ac feugiat vestibulum, massa justo rutrum risus, a pulvinar augue ex auctor purus. In ut velit in nunc lacinia posuere nec a risus. In bibendum feugiat enim eget volutpat.",
-    main_image: "http://via.placeholder.com/600x200",
+    main_image: "http://via.placeholder.com/600x400",
     thumb_image: "http://via.placeholder.com/350x200"
     )
 end
@@ -40,7 +40,7 @@ end
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "Angular",
     body: "Nam efficitur pulvinar enim, eu semper elit rhoncus eu. Etiam sed nunc tellus. Aenean laoreet, elit ac feugiat vestibulum, massa justo rutrum risus, a pulvinar augue ex auctor purus. In ut velit in nunc lacinia posuere nec a risus. In bibendum feugiat enim eget volutpat.",
-    main_image: "http://via.placeholder.com/600x200",
+    main_image: "http://via.placeholder.com/600x400",
     thumb_image: "http://via.placeholder.com/350x200"
     )
 end
